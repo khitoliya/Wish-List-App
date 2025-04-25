@@ -64,7 +64,7 @@ A simple Android app that allows users to create, update, delete, and view their
 ## Screenshots
 
 ### Home Screen:
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home-screen.jpg)
 
 ### Add/Edit Wish:
 ![Add Wish](screenshots/add_wish.png)
