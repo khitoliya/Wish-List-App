@@ -72,11 +72,14 @@ A simple Android app that allows users to create, update, delete, and view their
 ### Wish Item:
 ![Wish Item](screenshots/wish_item.png)
 
+### Delete Wish:
+![Delete Wish](screenshots/Delete_Wish.png)
+
 ## Contributing
 
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
+If you have any questions or suggestions, feel free to contact me at rohitkumar66909@gmail.com.
 
